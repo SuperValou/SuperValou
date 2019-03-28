@@ -1,5 +1,5 @@
 # Home Page
-Welcome to my GitHub page! I like doing stuff with Unity, and here is an overview of what I've done so far.
+Welcome to my GitHub page! I like doing stuff with Unity, and here is an overview of (the best of) what I've done so far.
 
 
 ## Super Tomb Hunter
@@ -22,12 +22,15 @@ It was done during a three days game jam that took place during **December 2018*
 
 ## Dab Dashers
 
-![Dab Dashers](https://github.com/SuperValou/HomePage/blob/master/Resources/DabDashers.jpg)
+![Dab Dashers Gameplay](https://github.com/SuperValou/HomePage/blob/master/Resources/DabDashers/DD_gameplay.png)
 
 #### What's this?
 A rythme-game where you have to dab on the beat to win against the other player. Keep the pace or loose the race!
 
 It was done during a three days game jam that took place during **September 2017**. The theme was *Battle Aracde*, and we were a team of **five people**: two game designers, a level designer, a sound desginer, and a programmer (me).
- 
-**Check it out:** (soon)
+
+![Dab Dashers Main Menu](https://github.com/SuperValou/HomePage/blob/master/Resources/DabDashers/DD_main_menu.png)
+
 **Source code:** https://github.com/SuperValou/DabDashers
+
+**Try it out:** (soon)
