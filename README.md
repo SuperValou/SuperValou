@@ -2,11 +2,7 @@ Welcome to my GitHub page! I like doing stuff with Unity, and here is an overvie
 
 ## Super Tomb Hunter
 
-![Super Tomb Hunter Main Menu](https://github.com/SuperValou/HomePage/blob/master/Resources/SuperTombHunter/STH_main_menu.png)
-
 ![Super Tomb Hunter Gameplay](https://github.com/SuperValou/HomePage/blob/master/Resources/SuperTombHunter/STH_gameplay.png)
-
-![Super Tomb Hunter Victory Screen](https://github.com/SuperValou/HomePage/blob/master/Resources/SuperTombHunter/STH_victory_screen.png)
 
 #### What's this?
 A four-players game, basically a **2v2 Connect Four**. You and your partner have to fill a row/column/diagonal with four of the same tile in order to score for your team. Be careful, your opponents can steal the rows you're building up... but you can steal theirs too!
@@ -15,7 +11,10 @@ A four-players game, basically a **2v2 Connect Four**. You and your partner have
  
  
 **Source code:** https://github.com/SuperValou/SuperTombHunter
- **Try it out:** You can [download the game for Windows](https://github.com/SuperValou/HomePage/blob/master/Resources/SuperTombHunter/SuperTombHunter.zip) but you will need some XBox Controllers in order to play. Please note that you will be stuck to the main menu if you don't have a controller connected to your computer.
+
+**Try it out:** You can [download the game for Windows](https://github.com/SuperValou/HomePage/blob/master/Resources/SuperTombHunter/SuperTombHunter.zip) but you will need some XBox Controllers in order to play. Please note that you will be stuck to the main menu if you don't have a controller connected to your computer.
+
+![Super Tomb Hunter Main Menu](https://github.com/SuperValou/HomePage/blob/master/Resources/SuperTombHunter/STH_main_menu.png)
 
 
 ## Dab Dashers
