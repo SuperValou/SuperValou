@@ -33,4 +33,4 @@ It was done during a three days game jam that took place during **September 2017
 
 **Source code:** https://github.com/SuperValou/DabDashers
 
-**Try it out:** (soon)
+**Try it out:** You can [download the game for Windows](https://github.com/SuperValou/HomePage/blob/master/Resources/DabDashers/DabDashers.zip). It is recommended to use some XBox Controllers in order to play, but you can also use the keyboard.
