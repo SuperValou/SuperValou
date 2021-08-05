@@ -23,8 +23,12 @@ TODO
 #### What's this?
 A Unity package to display text progressively like a typewriter would do. It also supports few commands to configure how letters are appearing on screen.
 
+Click on the video below to see a demo of it.
 
-[Video]
+
+https://user-images.githubusercontent.com/6672340/128429432-2a1bfc00-25c0-4d33-aa97-9b2c343aad2f.mp4
+
+
 
 #### Context
 I wanted to replicate how text gets displayed while [scanning items in this 20-years-old game](https://www.youtube.com/watch?v=1NdGr0vrbeg&t=206s). I took inspiration from [this video](https://youtu.be/So8DpNh3XOE) on how to achieve this effect, and implemented everything myself. 
@@ -37,13 +41,12 @@ Note that such "typewriter effects" in Unity are already available in the Asset 
 
 ## Super Light Shoot (2020)
 
-[Gameplay]
+![2020-04-15 00_38_35-](https://user-images.githubusercontent.com/6672340/128428608-83c71e84-ec03-4542-b021-3a6f6f9d3db4.png)
+
 
 #### What's this?
 
 A little 3D wave-defense game where you have to shoot incoming ennemies to keep them away. If they get too close, they'll destroy the tower you're standing on, and once you end up on the floor, well... it's up to you to survive!
-
-[MainMenu]
 
 Here are some nice comments that were left on the game page:
 > Hey, it's a super cool game!
@@ -52,11 +55,15 @@ Here are some nice comments that were left on the game page:
 
 > I LOVED this game, even though it made me scream at one point
 
-Just so you know, its actually impossible to keep up with the game pace, as the number of spawned foes gets greater than your shooting rate after roughly just one minute. But it seems this issue I didn't fix made the game so intense that  people enjoyed it - somebody I don't know even mentionned my game in a [video](https://youtu.be/tZ1buaQJlqk?t=273), and also [another one](https://youtu.be/QTvqWMv6s6s?t=321).
+It was even mentionned in a [video](https://youtu.be/tZ1buaQJlqk?t=273), and also [another one](https://youtu.be/QTvqWMv6s6s?t=321).
+
+
+![Cover](https://user-images.githubusercontent.com/6672340/128428668-e925bb2e-ffb4-4bb3-b749-01ff59cc7f3c.png)
+
+
 
  #### Context
 It was done during the [Weekly Game Jam - Week 144](https://itch.io/jam/weekly-game-jam-144/rate/611688). The theme was **In the Dark**, and I did everything all by myself.
-
 
 **Source code:** https://github.com/SuperValou/WGJ144-InTheDark
 
