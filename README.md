@@ -2,21 +2,34 @@
 # Home Page
 Welcome to my GitHub page! 
 
-I like C# and Unity, and here is an overview of the interesting stuff I've done so far.
+I like C# and Unity, and here is an overview of some of the personnal projects I've done so far.
+
+
+
 
 ##  SceneLoading (2021)
 
+[thumbnail]
+
 #### What's this?
-A Unity package to handle scene loading like a Metroidvania. Check out the [Documentation] to get started, or watch the demo below.
+SceneLoading is a Unity package to handle transitioning between different rooms. To illustrate what it does and ensure it works as expected, I built a mini-game with it!
 
-[Demo]
+[screenshot]
 
-#### Context
-TODO
+This demo shows that you can split rooms into individual scenes and still have your player moving freely between them like they were all part of the same area. Information can also be "remembered" by a room once it is unloaded/reloaded, and communication can also occur accros different rooms. 
 
-**Source code:** https://github.com/SuperValou/SceneLoading
+You can either:
+- [Play the demo](https://supervalou.itch.io/sceneloading-demo) on itch.io
+- Watch the video below (**coming soon**)
+- Check out the [Documentation](https://supervalou.github.io/SceneLoading/manual/Concepts.html) 
 
-**Try it out:** You can [download the demo for Windows].
+
+**Repository:** https://github.com/SuperValou/SceneLoading
+
+
+
+
+
 
 ## TypewriterEffect (2021)
 
@@ -25,9 +38,7 @@ A Unity package to display text progressively like a typewriter would do. It als
 
 Click on the video below to see a demo of it.
 
-
 https://user-images.githubusercontent.com/6672340/128429432-2a1bfc00-25c0-4d33-aa97-9b2c343aad2f.mp4
-
 
 
 #### Context
@@ -39,6 +50,12 @@ Note that such "typewriter effects" in Unity are already available in the Asset 
 
 **Source code:** https://github.com/SuperValou/TypewriterEffect
 
+
+
+
+
+
+
 ## Super Light Shoot (2020)
 
 ![2020-04-15 00_38_35-](https://user-images.githubusercontent.com/6672340/128428608-83c71e84-ec03-4542-b021-3a6f6f9d3db4.png)
@@ -47,6 +64,8 @@ Note that such "typewriter effects" in Unity are already available in the Asset 
 #### What's this?
 
 A little 3D wave-defense game where you have to shoot incoming ennemies to keep them away. If they get too close, they'll destroy the tower you're standing on, and once you end up on the floor, well... it's up to you to survive!
+
+You can **try it out** by downloading and lauching it from the [Super Light Shoot itch.io page](https://supervalou.itch.io/superlightshoot)! 
 
 Here are some nice comments that were left on the game page:
 > Hey, it's a super cool game!
@@ -61,13 +80,15 @@ It was even mentionned in a [video](https://youtu.be/tZ1buaQJlqk?t=273), and als
 ![Cover](https://user-images.githubusercontent.com/6672340/128428668-e925bb2e-ffb4-4bb3-b749-01ff59cc7f3c.png)
 
 
-
  #### Context
 It was done during the [Weekly Game Jam - Week 144](https://itch.io/jam/weekly-game-jam-144/rate/611688). The theme was **In the Dark**, and I did everything all by myself.
 
 **Source code:** https://github.com/SuperValou/WGJ144-InTheDark
 
-**Try it out:** Download and lauch it from its [itch.io page](https://supervalou.itch.io/superlightshoot)! 
+
+
+
+
 
 ## Super Tomb Hunter (2018)
 
@@ -85,6 +106,12 @@ It was done during a three days game jam that took place during **December 2018*
 **Source code:** https://github.com/SuperValou/SuperTombHunter
 
 **Try it out:** You can [download the game for Windows](https://github.com/SuperValou/HomePage/blob/master/Resources/SuperTombHunter/SuperTombHunter.zip) but you will need some XBox Controllers in order to play. Please note that you will be stuck to the main menu if you don't have a controller connected to your computer.
+
+
+
+
+
+
 
 ## Dab Dashers (2017)
 
