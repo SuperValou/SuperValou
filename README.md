@@ -1,6 +1,6 @@
 
-# Home Page
-Welcome to my GitHub page! 
+# SuperValou
+Welcome to my profile! 
 
 I like C# and Unity, and here is an overview of some of the personnal projects I've done so far.
 
@@ -92,12 +92,12 @@ It was done during the [Weekly Game Jam - Week 144](https://itch.io/jam/weekly-g
 
 ## Super Tomb Hunter (2018)
 
-![Super Tomb Hunter Gameplay](https://github.com/SuperValou/HomePage/blob/master/Resources/SuperTombHunter/STH_gameplay.png)
+![Super Tomb Hunter Gameplay](https://github.com/SuperValou/SuperValou/blob/master/Resources/SuperTombHunter/STH_gameplay.png)
 
 #### What's this?
 A four-players game, basically a **2v2 Connect Four**. You and your partner have to fill a row/column/diagonal with four of the same tile in order to score for your team. Be careful, your opponents can steal the rows you're building up... but you can steal theirs too!
 
-![Super Tomb Hunter Main Menu](https://github.com/SuperValou/HomePage/blob/master/Resources/SuperTombHunter/STH_main_menu.png)
+![Super Tomb Hunter Main Menu](https://github.com/SuperValou/SuperValou/blob/master/Resources/SuperTombHunter/STH_main_menu.png)
 
  #### Context
 It was done during a three days game jam that took place during **December 2018**. The theme was **Party Game**, and we were a team of **four people**: a producer, a 2D artist and two programmers (another guy and me).
@@ -105,7 +105,7 @@ It was done during a three days game jam that took place during **December 2018*
 
 **Source code:** https://github.com/SuperValou/SuperTombHunter
 
-**Try it out:** You can [download the game for Windows](https://github.com/SuperValou/HomePage/blob/master/Resources/SuperTombHunter/SuperTombHunter.zip) but you will need some XBox Controllers in order to play. Please note that you will be stuck to the main menu if you don't have a controller connected to your computer.
+**Try it out:** You can [download the game for Windows](https://github.com/SuperValou/SuperValou/blob/master/Resources/SuperTombHunter/SuperTombHunter.zip) but you will need some XBox Controllers in order to play. Please note that you will be stuck to the main menu if you don't have a controller connected to your computer.
 
 
 
@@ -115,12 +115,12 @@ It was done during a three days game jam that took place during **December 2018*
 
 ## Dab Dashers (2017)
 
-![Dab Dashers Gameplay](https://github.com/SuperValou/HomePage/blob/master/Resources/DabDashers/DD_gameplay.png)
+![Dab Dashers Gameplay](https://github.com/SuperValou/SuperValou/blob/master/Resources/DabDashers/DD_gameplay.png)
 
 #### What's this?
 A 2D-rythme-game where you have to dab on the beat to win against the other player. Keep the pace or loose the race!
 
-![Dab Dashers Main Menu](https://github.com/SuperValou/HomePage/blob/master/Resources/DabDashers/DD_main_menu.png)
+![Dab Dashers Main Menu](https://github.com/SuperValou/SuperValou/blob/master/Resources/DabDashers/DD_main_menu.png)
 
 #### Context
 It was done during a three days game jam that took place during **September 2017**. The theme was **Battle Aracde**, and we were a team of **five people**: two game designers, a level designer, a sound desginer, and a programmer (me).
