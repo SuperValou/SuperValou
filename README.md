@@ -2,7 +2,7 @@
 # SuperValou
 Welcome to my profile! 
 
-I like **C#** and **Unity**, and here is an overview of some of the personnal projects I've done so far.
+I like **C#** and **Unity**, and here is an overview of some of my personnal projects.
 
 
 
@@ -21,8 +21,14 @@ This demo shows that you can split rooms into individual scenes and still have y
 
 #### Try it out
 - [Play the demo](https://supervalou.itch.io/sceneloading-demo) on itch.io
-- Watch the video below (**coming soon**)
+- Want to have a quick look at it? Watch the video below
 - Check out the [Documentation](https://supervalou.github.io/SceneLoading/manual/Concepts.html) 
+
+
+
+https://user-images.githubusercontent.com/6672340/134586110-9f2c2817-91be-43e8-83c6-6f4731edf28f.mp4
+
+
 
 #### Repository
 https://github.com/SuperValou/SceneLoading
