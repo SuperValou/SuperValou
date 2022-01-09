@@ -54,7 +54,7 @@ I wanted to replicate how text gets displayed while [scanning items in this 20-y
 
 It parses the input string to create the corresponding tokens and generate the resulting characters along with their animation data.
 
-Note that such "typewriter effects" in Unity are already available in the Asset Store, but the underlying idea was more about learning and building a package with a clear and extensible architecture rather than reinventing the wheel to "just make it work".
+Note that such "typewriter effects" in Unity are already available in the Asset Store, but the idea was about learning and building a package by myself with a clear and extensible architecture.
 
 #### Repository
 https://github.com/SuperValou/TypewriterEffect
