@@ -4,6 +4,17 @@ Welcome to my profile!
 
 I like **C#** and **Unity**, and here is an overview of some of my personal projects.
 
+## Ouch (2022)
+Hitbox-based damage system for Unity, with an emphasis on damage typing and additional effects.
+
+**Currently in development.**
+
+**Quick look:**
+
+
+
+https://user-images.githubusercontent.com/6672340/151718665-d71e4b28-7177-41d5-8561-5c37f2d736e9.mp4
+
 
 
 
