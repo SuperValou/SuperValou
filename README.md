@@ -2,7 +2,7 @@
 # SuperValou
 Welcome to my profile! 
 
-I like **C#** and **Unity**, and here is an overview of some of my personnal projects.
+I like **C#** and **Unity**, and here is an overview of some of my personal projects.
 
 
 
@@ -15,7 +15,7 @@ I like **C#** and **Unity**, and here is an overview of some of my personnal pro
 #### What's this?
 SceneLoading is a Unity package to handle transitioning between different rooms. To illustrate what it does and ensure it works as expected, I built a mini-game with it!
 
-This demo shows that you can split rooms into individual scenes and still have your player moving freely between them like they were all part of the same area. Information can also be "remembered" by a room once it is unloaded/reloaded, and communication can also occur accros different rooms. 
+This demo shows that you can split rooms into individual scenes and still have your player moving freely between them like they were all part of the same area. Information can also be "remembered" by a room once it is unloaded/reloaded, and communication can also occur across different rooms. 
 
 ![Screenshot_3](https://user-images.githubusercontent.com/6672340/130270383-a2cd950c-5fd6-4722-92ad-d16f69edad12.png)
 
@@ -41,7 +41,7 @@ https://github.com/SuperValou/SceneLoading
 ## TypewriterEffect (2021)
 
 #### What's this?
-A Unity package to display text progressively like a typewriter would do. It also supports few commands to configure how letters are appearing on screen.
+A Unity package to display text progressively like a typewriter would do. It also supports a few commands to configure how letters are appearing on screen.
 
 #### Try it out
 - Click on the video below to see a demo of it.
@@ -72,7 +72,7 @@ https://github.com/SuperValou/TypewriterEffect
 
 #### What's this?
 
-A little 3D wave-defense game where you have to shoot incoming ennemies to keep them away. If they get too close, they'll destroy the tower you're standing on, and once you end up on the floor, well... it's up to you to survive!
+A little 3D wave-defense game where you have to shoot incoming enemies to keep them away. If they get too close, they'll destroy the tower you're standing on, and once you end up on the floor, well... it's up to you to survive!
 
 #### Try it out
  - [Super Light Shoot](https://supervalou.itch.io/superlightshoot) on itch.io
@@ -84,7 +84,7 @@ Here are some nice comments that were left on the game page:
 
 > I LOVED this game, even though it made me scream at one point
 
-It was even mentionned in a [video](https://youtu.be/tZ1buaQJlqk?t=273), and also [another one](https://youtu.be/QTvqWMv6s6s?t=321).
+It was even mentioned in a [video](https://youtu.be/tZ1buaQJlqk?t=273), and also [another one](https://youtu.be/QTvqWMv6s6s?t=321).
 
 
 ![Cover](https://user-images.githubusercontent.com/6672340/128428668-e925bb2e-ffb4-4bb3-b749-01ff59cc7f3c.png)
@@ -132,12 +132,12 @@ https://github.com/SuperValou/SuperTombHunter
 ![Dab Dashers Gameplay](https://github.com/SuperValou/SuperValou/blob/master/Resources/DabDashers/DD_gameplay.png)
 
 #### What's this?
-A 2D-rythme-game where you have to dab on the beat to win against the other player. Keep the pace or loose the race!
+A 2D-rythme-game where you have to dab on the beat to win against the other player. Keep the pace or lose the race!
 
 ![Dab Dashers Main Menu](https://github.com/SuperValou/SuperValou/blob/master/Resources/DabDashers/DD_main_menu.png)
 
 #### Context
-It was done during a three days game jam that took place during **September 2017**. The theme was **Battle Aracde**, and we were a team of **five people**: two game designers, a level designer, a sound desginer, and a programmer (me).
+It was done during a three days game jam that took place during **September 2017**. The theme was **Battle Arcade**, and we were a team of **five people**: two game designers, a level designer, a sound designer, and a programmer (me).
 
 #### Repository
 https://github.com/SuperValou/DabDashers
