@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/6672340/151718665-d71e4b28-7177-41d5-8
 
 
 
-##  SceneLoading (2021)
+##  SceneLoading (2021-2022)
 
 ![thumbnail](https://user-images.githubusercontent.com/6672340/130270627-2fa400de-4bce-41d5-be62-bedd6dd86b9d.png)
 
@@ -41,8 +41,9 @@ https://user-images.githubusercontent.com/6672340/134586110-9f2c2817-91be-43e8-8
 
 
 
-#### Repository
-https://github.com/SuperValou/SceneLoading
+#### Repositories
+- Package: https://github.com/SuperValou/SceneLoading
+- Demo: https://github.com/SuperValou/SceneLoading-Demo
 
 
 
