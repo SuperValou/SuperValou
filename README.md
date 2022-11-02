@@ -4,19 +4,15 @@ Welcome to my profile!
 
 I like **C#** and **Unity**, and here is an overview of some of my personal projects.
 
-## Ouch (2022)
-Hitbox-based damage system for Unity, with an emphasis on damage typing and additional effects.
+## Physically-Based Ray Tracer (2022)
 
-**Currently in development.**
+**In progress**
 
-**Quick look:**
+A learning project where I attempt to implement a small C# version of the physically-based ray tracer described in [Physically Based Rendering – From Theory to Implementation](https://www.pbr-book.org/). This book describes "both the mathematical theory behind a modern photorealistic rendering system as well as its practical implementation".
 
+![book](https://pbrt.org/scenes-v3_images/book.jpg)
 
-
-https://user-images.githubusercontent.com/6672340/151718665-d71e4b28-7177-41d5-8561-5c37f2d736e9.mp4
-
-
-
+Obviously, this project does not aim to match the quality or feature set available in the [official pbrt implementation](https://github.com/mmp/pbrt-v3), and will be considered good enough once the image above can be rendered.
 
 ##  SceneLoading (2021-2022)
 
